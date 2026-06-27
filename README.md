@@ -130,7 +130,3 @@ python backend/main.py
 GitHub: https://github.com/sparsh1536
 
 ---
-
-## 📄 License
-
-MIT License
