@@ -109,6 +109,48 @@ python backend/main.py
 
 ---
 
+## 📸 Demo
+
+### 1. 🎥 Input Video
+
+![Step 1](docs/screenshots/1.png)
+
+---
+
+### 2. ⬇️ Audio Download
+
+![Step 2](docs/screenshots/2.png)
+
+![Step 3](docs/screenshots/3.png)
+
+---
+
+### 3. 🧠 Claim Extraction, 🌐 Evidence Collection & 🤖 AI Verification
+
+![Step 4](docs/screenshots/4.png)
+
+![Step 5](docs/screenshots/5.png)
+
+---
+
+![Step 6](docs/screenshots/6.png)
+
+![Step 7](docs/screenshots/7.png)
+
+---
+
+![Step 8](docs/screenshots/8.png)
+
+![Step 9](docs/screenshots/9.png)
+
+---
+
+![Step 10](docs/screenshots/10.png)
+
+![Step 11](docs/screenshots/11.png)
+
+---
+
 ## 📌 Roadmap
 
 * [x] YouTube audio extraction
